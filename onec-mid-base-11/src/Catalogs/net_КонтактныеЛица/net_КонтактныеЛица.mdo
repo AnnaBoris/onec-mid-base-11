@@ -7,14 +7,14 @@
     <listType typeId="27d08ec3-8308-4ec7-853a-364f4f4debcf" valueTypeId="8a964705-3b16-4c15-a59b-92bbb511df98"/>
     <managerType typeId="0e6a71e6-3154-45f4-9cde-242730caaa05" valueTypeId="7b89429e-4b55-4e9a-b35f-2135a255ec5e"/>
   </producedTypes>
-  <name>net_Контрагенты</name>
+  <name>net_КонтактныеЛица</name>
   <synonym>
     <key>ru</key>
-    <value>Net контрагенты</value>
+    <value>Net контактные лица</value>
   </synonym>
   <useStandardCommands>true</useStandardCommands>
-  <inputByString>Catalog.net_Контрагенты.StandardAttribute.Code</inputByString>
-  <inputByString>Catalog.net_Контрагенты.StandardAttribute.Description</inputByString>
+  <inputByString>Catalog.net_КонтактныеЛица.StandardAttribute.Code</inputByString>
+  <inputByString>Catalog.net_КонтактныеЛица.StandardAttribute.Description</inputByString>
   <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
   <createOnInput>Use</createOnInput>
   <dataLockControlMode>Managed</dataLockControlMode>
